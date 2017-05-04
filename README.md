@@ -1,5 +1,5 @@
 # python
-python爬虫的工具列表
+python爬虫的工具列表（http://python.jobbole.com/82633/）
 
 这个列表包含与网页抓取和数据处理的Python库
 
